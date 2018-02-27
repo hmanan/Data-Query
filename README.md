@@ -37,4 +37,12 @@ Once you have completed this Code Pattern, you will know how to:
 
 Followed the steps in the video linked above. Note: change the .env file to your own via service details in IBM cloud and then run it on any port you like, the default port is 3000.
 
+# Output
+
+* After following the tutorial I got the following results.
+
+* My data collection looks like this ![]( Data-Query/disc-2.png ) 
+
+* I ran the following query which provided me the result of method_of_leak : inside job ![]( Data-Query/disc-3.png ) 
+
 
