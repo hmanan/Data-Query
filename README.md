@@ -1,9 +1,7 @@
-[![Build Status](https://travis-ci.org/IBM/watson-discovery-analyze-data-breaches.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-analyze-data-breaches)
-![IBM Cloud Deployments](https://metrics-tracker.mybluemix.net/stats/aeeda3d21ade121afd1a7f2b99501c71/badge.svg)
 
-# Use the Watson Discovery Service to analyze cyber security breaches
+# Using the Watson Discovery Service to analyze cyber security breaches
 
-In this Code Pattern you will upload your own data into the Watson Discovery Service. Then you'll configure a web application so that it can query the data collection you created. The web app allows you to explore that data.
+In this Code Pattern I uploaded data into the Watson Discovery Service. Then you'll configure a web application so that it can query the data collection you created. The web app allows you to explore that data.
 
 Once you have completed this Code Pattern, you will know how to:
 
@@ -38,6 +36,3 @@ Once you have completed this Code Pattern, you will know how to:
 Followed the steps in the video linked above. Note: chnage the .env file to your own via service details in IBM cloud and then run it on any port you like, the default port is 3000.
 
 
-
-# License
-[Apache 2.0](LICENSE)
