@@ -41,6 +41,7 @@ Followed the steps in the video linked above. Note: change the .env file to your
 
 * After following the tutorial I got the following results.
 
-* My data collection looks like this <img src="https://user-images.githubusercontent.com/11010599/36721042-c8e849a6-1b77-11e8-862a-d6ed50270ff4.png" width="18%"></img> 
-* I ran the following query which provided me the result of method_of_leak : inside job <img src="https://user-images.githubusercontent.com/11010599/36721050-cdb72470-1b77-11e8-8dac-415c5a50d2cb.png" width="18%"></img> 
+* My data collection looks like this  <img src="https://user-images.githubusercontent.com/11010599/36721050-cdb72470-1b77-11e8-8dac-415c5a50d2cb.png" width="20%"></img> 
 
+
+* I ran the following query which provided me the result of method_of_leak : inside job  <img src="https://user-images.githubusercontent.com/11010599/36721042-c8e849a6-1b77-11e8-862a-d6ed50270ff4.png" width="20%"></img>  
