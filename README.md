@@ -1,3 +1,4 @@
+# This application was made by following the tutorial provided by IBM Watson and the following repository was forked  https://github.com/IBM/watson-discovery-analyze-data-breaches
 
 # Using the Watson Discovery Service to analyze cyber security breaches
 
