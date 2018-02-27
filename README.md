@@ -1,5 +1,6 @@
-# This application was made by following the tutorial provided by IBM Watson and the following repository was forked  https://github.com/IBM/watson-discovery-analyze-data-breaches
-
+# This application was made with the help of tutorial provided by IBM Watson and the following repository was forked
+ https://github.com/IBM/watson-discovery-analyze-data-breaches
+  
 # Using the Watson Discovery Service to analyze cyber security breaches
 
 In this Code Pattern I uploaded data into the Watson Discovery Service. Then you'll configure a web application so that it can query the data collection you created. The web app allows you to explore that data.
@@ -34,6 +35,6 @@ Once you have completed this Code Pattern, you will know how to:
 
 # Steps
 
-Followed the steps in the video linked above. Note: chnage the .env file to your own via service details in IBM cloud and then run it on any port you like, the default port is 3000.
+Followed the steps in the video linked above. Note: change the .env file to your own via service details in IBM cloud and then run it on any port you like, the default port is 3000.
 
 
