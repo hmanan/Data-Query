@@ -41,8 +41,8 @@ Followed the steps in the video linked above. Note: change the .env file to your
 
 * After following the tutorial I got the following results.
 
-* My data collection looks like this ![alt text](Data-Query/disc-2.png)
+* My data collection looks like this ![picture](Data-Query/disc-2.png)
 
-* I ran the following query which provided me the result of method_of_leak : inside job ![alt text]( Data-Query/disc-3.png ) 
+* I ran the following query which provided me the result of method_of_leak : inside job !![picture](Data-Query/disc-3.png) 
 
 
